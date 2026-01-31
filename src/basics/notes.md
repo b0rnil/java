@@ -8,7 +8,9 @@ package package-name;
 # `public class HelloWorld {`
 ## 1. class
 > A class is like a blueprint.
+
 Java programes are built using classes. The JVM cannot run code outside of a class.
 ## 2. HelloWorld
 > CLass name
+
 Entry class for this program. The public class must have the same class name as the file name.
