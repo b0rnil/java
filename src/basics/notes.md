@@ -24,4 +24,19 @@ Entry class for this program. The public class must have the same class name as 
 This makes the file accessible from anywhere. `public` is required if the class contains `main()` and if we want the JVM to access it.
 
 **IF the class is `public`, then it's class name shoudl be the same as the file name.**
+---
+### `public static void main(String[] args) {`
+## 1. public
+> Method
 
+A method is a reusable block of code in a class that executes a specific operation when called.
+
+## 2. static
+> Non-access modifier
+
+When we write `static`, it makes it so that the JVM starts execution without creating an object.
+
+## 3. void
+> Return Type
+
+`void` means that there is no return (data) type.
