@@ -5,6 +5,7 @@
 ```java
 package package-name;
 ```
+---
 ### `public class HelloWorld {`
 ## 1. class
 > A class is like a blueprint.
