@@ -1,3 +1,6 @@
+**NOTE!**
+*Check out [HelloWorld](HelloWorld.java) for reference* 
+
 ### `package basics;`
 ## PACKAGE
 > a.k.a., Package Declaration
@@ -21,3 +24,4 @@ Entry class for this program. The public class must have the same class name as 
 This makes the file accessible from anywhere. `public` is required if the class contains `main()` and if we want the JVM to access it.
 
 **IF the class is `public`, then it's class name shoudl be the same as the file name.**
+
