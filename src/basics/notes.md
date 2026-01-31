@@ -29,9 +29,9 @@ This makes the file accessible from anywhere. `public` is required if the class 
 
 ### `public static void main(String[] args) {`
 ## 1. public
-> Method
+> Access modifier
 
-A method is a reusable block of code in a class that executes a specific operation when called.
+Controls visibility (who can call the method).
 
 ## 2. static
 > Non-access modifier
@@ -41,4 +41,24 @@ When we write `static`, it makes it so that the JVM starts execution without cre
 ## 3. void
 > Return Type
 
-`void` means that there is no return (data) type.
+`void` means that there is no return (data) type. Or that there is no value to return to the JVM.
+
+## 4. main
+> Method name.
+
+`main()` marks the entry point of the program.
+
+## 5. String[] args
+> Command-line arguements
+
+Allows passing data to the program when it starts.
+
+Example:
+```bash
+java HelloWorld hello 123
+```
+Then:
+```java
+args[0] = "hello"
+args[1] = "123"
+```
