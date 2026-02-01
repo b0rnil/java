@@ -1,3 +1,4 @@
+![poster](assets/img_readme_01.png)
 # README
 This repository contains all my Java exercises and practice projects for learning and coursework.
 ## Setup
