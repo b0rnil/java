@@ -13,9 +13,9 @@ public class VariablesAndDataTypes {
         float temperature = sc.nextFloat();
 
         System.out.println("Enter Grade:  ");
-        char grade = sc.next().charAt(0);
+        String grade = sc.next();
 
-        System.out.println("Is a student? (1 for true or false): ");
+        System.out.println("Is a student? (true or false): ");
         boolean isStudent = sc.nextBoolean();
 
         //Display
