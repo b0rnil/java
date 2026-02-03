@@ -1,8 +1,8 @@
-package aClassCodes;
+package aClassCodes.VarAndDataTypes;
 //Same code as [Variables](src/basic/Variables.java) but while taking input from user.
 
 import java.util.*;
-public class VariablesAndDataTypes {
+public class basic {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-package aClassCodes;
+package aClassCodes.HelloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {
