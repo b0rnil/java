@@ -1,4 +1,4 @@
-package aClassCodes.VarAndDataTypes;
+package ClassCodes.VarAndDataTypes;
 
 public class SwapWithout3rdVar {
     public static void main(String[] args) {

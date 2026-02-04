@@ -1,4 +1,4 @@
-package aClassCodes.VarAndDataTypes;
+package ClassCodes.VarAndDataTypes;
 //Same code as [Variables](src/basic/Variables.java) but while taking input from user.
 
 import java.util.*;

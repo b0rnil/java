@@ -1,4 +1,4 @@
-package aClassCodes.VarAndDataTypes;
+package ClassCodes.VarAndDataTypes;
 import java.util.*;
 
 public class InchesToMeter {
